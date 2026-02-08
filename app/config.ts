@@ -6,7 +6,7 @@ export const config = {
     intro: {
         steps: [
             {
-                text: "Hi Muna...",
+                text: "Eiiiiii Munaaa...",
                 image: "/media/us1.jpg",
             },
             {
@@ -34,7 +34,7 @@ export const config = {
                 image: "/media/us7.jpg",
             },
             {
-                text: "You are my best friend.",
+                text: "You are the best person I have ever met.",
                 image: "/media/us8.jpg",
             },
             {
@@ -42,7 +42,7 @@ export const config = {
                 image: "/media/us9.jpg",
             },
             {
-                text: "My love.",
+                text: "My Only Wuvvvv.",
                 image: "/media/us10.jpg",
             },
             {
