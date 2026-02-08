@@ -1,0 +1,15 @@
+
+> proposal-site@1.0.0 dev
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.108:3000
+
+✓ Starting...
+✓ Ready in 2.8s
+○ Compiling / ...
+ GET / 200 in 13.1s (compile: 7.8s, render: 5.3s)
+ GET / 200 in 536ms (compile: 76ms, render: 461ms)
+ GET / 200 in 457ms (compile: 198ms, render: 259ms)
+[?25h
